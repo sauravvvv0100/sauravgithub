@@ -1,1 +1,7 @@
-$git --version
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("printed in screen");
+    return 0;
+}
